@@ -22,3 +22,7 @@ do.
 ## btw...
 and incidentally, this is based on the url spec defined in [RFC 1738](http://www.ietf.org/rfc/rfc1738.txt), which in case anyone else cares, is
 decidedly more up to date than the draft-version on w3.org... not that I'm bitter over that hour of wasted whiteboarding or anything.
+
+
+## License
+BSD

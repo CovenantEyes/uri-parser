@@ -24,5 +24,6 @@ and incidentally, this is based on the url spec defined in [RFC 1738](http://www
 decidedly more up to date than the draft-version on w3.org... not that I'm bitter over that hour of wasted whiteboarding or anything.
 
 
-## License
-BSD
+# License
+
+This code is licensed under the [MIT License](http://opensource.org/licenses/MIT). See `LICENSE.txt`.

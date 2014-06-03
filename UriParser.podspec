@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://github.com/cine-io/uri-parser"
   s.license          = 'see LICENSE.txt'
   s.authors          = { "Covenant Eyes" => "developer@covenanteyes.com" }
-  s.source           = { :git => "https://github.com/cine-io/uri-parser.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/CovenantEyes/uri-parser.git", :tag => s.version.to_s }
 
   s.requires_arc     = false
 

@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name             = "UriParser"
-  s.version          = "0.1.0"
+  s.name             = "UriParser-cpp"
+  s.version          = "0.1.1"
   s.summary          = "a simple parser, encoder and decoder for URIs"
   s.description      = <<-DESC
                        A little C++ library that parses URLs into bite-sized pieces.

@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "UriParser-cpp"
-  s.version          = "0.1.2"
+  s.version          = "0.1.3"
   s.summary          = "a simple parser, encoder and decoder for URIs"
   s.description      = <<-DESC
                        A little C++ library that parses URLs into bite-sized pieces.
@@ -11,6 +11,8 @@ Pod::Spec.new do |s|
   s.source           = { :git => "https://github.com/cine-io/uri-parser.git", :tag => s.version.to_s }
 
   s.requires_arc     = false
+
+  s.header_dir       = "UriParser"
 
   s.ios.deployment_target = '5.0'
   s.osx.deployment_target = '10.7'
